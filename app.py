@@ -12,11 +12,11 @@ def home():
       </head>
       <body>
         <h1>Cofre Secreto</h1>
-        <p>A flag esta guardada aqui. Consegue achar?</p>
-        <!-- FLAG{achei_a_falha_no_html} -->
+        <p>Nada de segredos aqui. O que e secreto fica no servidor.</p>
       </body>
     </html>
     """
+  
 
 
 if __name__ == "__main__":
