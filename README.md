@@ -7,11 +7,7 @@ para testar a estrutura base de segurança (Bandit + pip-audit).
 
 Encontrar a flag escondida no código HTML da página e depois corrigir a falha.
 
-# Template de Segurança Python
-
-Estrutura base para começar projetos Python com segurança desde o início.
-
-## O que já vem pronto
+## O que já vem pronto (do template)
 
 - Pipeline no GitHub Actions
 - SAST com Bandit
