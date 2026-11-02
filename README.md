@@ -14,5 +14,12 @@ Encontrar a flag escondida no código HTML da página e depois corrigir a falha.
 - SCA com pip-audit
 - .gitignore protegendo senhas e arquivos locais
 
+- ## O que aprendi
+
+- Tudo que o servidor envia ao navegador pode ser lido, inclusive comentários HTML
+- Ferramentas automáticas (Bandit e pip-audit) não pegam todos os erros
+- Remover um segredo do código não basta: ele continua no histórico do Git
+- Segredos devem ficar no servidor, fora do HTML
+
 
 
